@@ -1,0 +1,9 @@
+com/tcc/nurian/tccnurian/classes/Projecao.class
+com/tcc/nurian/tccnurian/classes/Transicao.class
+com/tcc/nurian/tccnurian/classes/CadeiaMarkov.class
+com/tcc/nurian/tccnurian/classes/Estado.class
+com/tcc/nurian/tccnurian/classes/Distribuicao.class
+com/tcc/nurian/tccnurian/TccNurian.class
+com/tcc/nurian/tccnurian/classes/Dados.class
+com/tcc/nurian/tccnurian/classes/MatrizTransicao.class
+com/tcc/nurian/tccnurian/classes/Preco.class
